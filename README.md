@@ -1,4 +1,5 @@
 # TWRP Device Tree - Xiaomi Redmi 17 5G
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/cc6a444e-b143-4bcf-a74b-3fe65968f28b" />
 
 ## Device Information
 
