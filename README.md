@@ -24,3 +24,4 @@
 
 This project is under development.
 No recovery image has been built or flashed.
+# device_tree_xiaomi_steppe_redmi-17-5g
