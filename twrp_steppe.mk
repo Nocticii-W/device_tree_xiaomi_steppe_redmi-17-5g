@@ -1,0 +1,9 @@
+
+PRODUCT_NAME := twrp_steppe
+PRODUCT_DEVICE := steppe
+PRODUCT_BRAND := Redmi
+PRODUCT_MODEL := Redmi 17 5G
+PRODUCT_MANUFACTURER := Xiaomi
+
+PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+

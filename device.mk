@@ -1,0 +1,5 @@
+LOCAL_PATH := device/xiaomi/steppe
+
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
+
+PRODUCT_SHIPPING_API_LEVEL := 36
